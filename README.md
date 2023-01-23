@@ -285,11 +285,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 
-## Authors
-
-Marcus Ruth - [Github](https://github.com/PrincessRuth90)   
-
-Ifeanyi Nze - [Github](https://github.com/Nzify) 
 
 
 
